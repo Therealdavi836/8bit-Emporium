@@ -38,8 +38,8 @@ https://docs.google.com/document/d/13i-G9IA9c_S_4NsJP6jZGLdvIMLQExBr/edit?usp=sh
 ## ⚡ Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/videogame-store.git
-   cd videogame-store
+   git clone https://github.com/Therealdavi836/8bit-Emporium.git
+   cd 8bit-Emporium
    ```
 2. Instala las dependencias:
    ```bash
