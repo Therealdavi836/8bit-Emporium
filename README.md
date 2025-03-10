@@ -67,7 +67,7 @@ https://docs.google.com/document/d/13i-G9IA9c_S_4NsJP6jZGLdvIMLQExBr/edit?usp=sh
 
 ## 📜 Licencia
 Este proyecto está bajo la **Licencia MIT**.
-El proyecto fue desarrollado y presentado para los docentes
+- El proyecto fue desarrollado y presentado para los docentes
 - **Docente encargado**: Valentina Tabares Morales
 - **Docente auxiliar**: Jose Albeiro Montes Gil
 
